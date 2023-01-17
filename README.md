@@ -1,9 +1,10 @@
-## Welcome to my profile!
+### Hi, I'm Juan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 Hello, I'm a Brazilian Front-end Developer. I love programming and I try to acquire more knowledge and experience in this area every day.
 
+<br>
 
-## My current tools:
+#### My current tools:
 
 📲 Front-end Mobile with React Native<br>
 💻 Front-end Web with Reactjs<br>
