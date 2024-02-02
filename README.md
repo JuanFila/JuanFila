@@ -4,7 +4,11 @@ Hello, I'm a Brazilian Front-end Developer. I love programming and I try to acqu
 
 <br>
 
-#### My current tools:
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFila&show_icons=true&theme=dracula&count_private=true)
+
+<br>
+
+### My current tools:
 
 📲 Front-end Mobile with React Native<br>
 💻 Front-end Web with Reactjs<br>
