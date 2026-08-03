@@ -1,35 +1,57 @@
-### Hi, I'm Juan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+<div align="center">
 
-Hello, I'm a Brazilian Front-end Developer. I love programming and I try to acquire more knowledge and experience in this area every day.
+# Olá, eu sou o Juan 👋
 
-<br>
+### Full Stack Developer | C# .NET · React · SQL/PostgreSQL · Docker
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFila&show_icons=true&theme=dracula&count_private=true)
+Desenvolvedor brasileiro apaixonado por construir aplicações completas — do banco de dados à interface. Busco aprender e evoluir todos os dias, unindo backend robusto em .NET a experiências de frontend modernas em React.
 
-<br>
+<a href="https://www.linkedin.com/in/juan-pablo-fila-7801481a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:juanfilapablo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-### My current tools:
-
-📲 Front-end Mobile with React Native<br>
-💻 Front-end Web with Reactjs<br>
-📡 Back-end with Nodejs
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Juan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+---
+
+### 🚀 Stack principal
+
+<p align="left">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🛠️ O que eu faço
+
+- 💻 **Backend** com C# / .NET (Web API, arquitetura em camadas, Entity Framework)
+- 📡 **Frontend** com React e JavaScript/TypeScript
+- 🗄️ **Banco de dados** relacional com PostgreSQL e SQL Server
+- 🐳 **Containerização** e ambientes de desenvolvimento com Docker
+- 🔗 Integração ponta a ponta: API REST, autenticação, deploy
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanFila&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFila&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFila&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+💬 **Vamos trocar uma ideia?** Me chama no LinkedIn ou manda um e-mail!
+
 </div>
-   <br>
-
-#### 💬 Find me elsewhere
- 
-
- 
-<div> 
-  <a href="https://www.linkedin.com/in/juan-pablo-fila-7801481a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:juanfilapablo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div/>
